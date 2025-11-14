@@ -9,7 +9,7 @@ Preview
 Desktop Interface
 -----------------
 
-.. image:: sale_barcode_scanner/static/description/scanner_dialog.png
+.. image:: https://raw.githubusercontent.com/mohamed-helmy/sale_barcode_scanner/refs/heads/18.0/sale_barcode_scanner/static/description/scanner_dialog.png
    :alt: Barcode Scanner Dialog - Desktop
    :width: 800px
 
@@ -18,7 +18,7 @@ The scanner interface on desktop showing camera preview and manual barcode entry
 Mobile Interface
 ----------------
 
-.. image:: sale_barcode_scanner/static/description/scanner_mobile.png
+.. image:: https://github.com/mohamed-helmy/sale_barcode_scanner/blob/18.0/sale_barcode_scanner/static/description/scanner_mobile.png?raw=true
    :alt: Barcode Scanner Dialog - Mobile
    :width: 400px
 
