@@ -11,6 +11,8 @@
         'security/ir.model.access.csv',
         'views/sale_order_views.xml',
     ],
+    # Cover image for Odoo Apps
+    'images': ['static/description/main_screenshot.png'],
     'assets': {
         'web.assets_backend': [
             'sale_barcode_scanner/static/src/js/scanner_audio.js',
@@ -22,5 +24,6 @@
     'installable': True,
     'application': False,
     'auto_install': False,
-    'license': 'Other proprietary',
+    # License must match LICENSE file in repository root
+    'license': 'LGPL-3',
 }
