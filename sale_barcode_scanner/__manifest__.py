@@ -5,7 +5,7 @@
     'category': 'Sales',
     'summary': 'Scan products by Barcode/QRCode in sales orders using mobile camera or webcam',
     'author': 'Mohamed Helmy',
-    'website': 'https://helmy.info',
+    'website': 'https://github.com/mohamed-helmy/sale_barcode_scanner',
     'depends': ['sale_management', 'product', 'barcodes'],
     'data': [
         'security/ir.model.access.csv',
